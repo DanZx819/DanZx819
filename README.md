@@ -54,21 +54,9 @@
 ### 🗄️ Banco de Dados
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </div>
 
-### ☁️ Cloud & DevOps
-<div align="center">
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-</div>
+
 
 ### 🛠️ Ferramentas & IDEs
 <div align="center">
@@ -76,8 +64,6 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 
 ---
@@ -96,25 +82,7 @@
 ---
 
 
-## 🔥 Projetos em Destaque
 
-### 🌟 [Nome do Projeto 1](link-do-repositorio)
-**Tecnologias:** React, Node.js, MongoDB, Express
-- 📝 Descrição breve do projeto
-- ⚡ Principais funcionalidades
-- 🚀 [Demo Live](link-da-demo) | 📚 [Documentação](link-docs)
-
-### 🌟 [Nome do Projeto 2](link-do-repositorio)
-**Tecnologias:** Laravel, Vue.js, MySQL, Docker
-- 📝 Descrição breve do projeto
-- ⚡ Principais funcionalidades
-- 🚀 [Demo Live](link-da-demo) | 📚 [Documentação](link-docs)
-
-### 🌟 [Nome do Projeto 3](link-do-repositorio)
-**Tecnologias:** Python, Django, PostgreSQL, AWS
-- 📝 Descrição breve do projeto
-- ⚡ Principais funcionalidades
-- 🚀 [Demo Live](link-da-demo) | 📚 [Documentação](link-docs)
 
 ---
 
@@ -148,24 +116,13 @@
 
 ---
 
-## 💡 Curiosidades
 
-- 🎯 **Objetivo atual:** Contribuir mais para projetos open source
-- 📚 **Aprendendo:** Machine Learning e Cloud Architecture
-- 🎮 **Hobby:** Desenvolvimento de jogos indie
-- ☕ **Combustível:** Café e música lo-fi
-- 🌍 **Idiomas:** Português (nativo), Inglês (fluente), Espanhol (intermediário)
-
----
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=DanZx819&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Profile Views"/>
   
   <h3>💖 Obrigado pela visita!</h3>
-  <p><em>Sempre aberto para novas oportunidades e colaborações!</em></p>
   
-  ⭐ Se você gostou dos meus projetos, considere dar uma estrela nos repositórios!
-</div>
 
 ---
 
