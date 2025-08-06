@@ -2,7 +2,7 @@
 
 ## 🚀 Tecnologias que mais utilizo
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=10&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanZx819&layout=compact&langs_count=10&theme=transparent)
 
 > Este gráfico mostra as principais linguagens utilizadas nos meus repositórios públicos.
 
