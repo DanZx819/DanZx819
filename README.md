@@ -95,14 +95,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </div>
 
-
-<h1 align="center">Hi 👋, I'm DanZx819</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danzx819&show_icons=true&locale=en&layout=compact" alt="danzx819" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danzx819&show_icons=true&locale=en" alt="danzx819" /></p>
