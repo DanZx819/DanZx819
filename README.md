@@ -45,7 +45,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanZx819&layout=compact&langs_count=8&theme=tokyonight&hide=html,css,json"/>
+  <img width="305" height="198" alt="image" src="https://github.com/user-attachments/assets/819b95ea-6793-4ca7-bc44-710ebfba9b9a" />
+
 </div>
 
 <div align="center">
