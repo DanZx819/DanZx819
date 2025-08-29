@@ -41,6 +41,7 @@
 </div>
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanZx819&layout=compact&langs_count=8&theme=tokyonight&hide=html,css,json,scss,typescript,shell,batchfile,dockerfile,vue,go,ruby,swift,objective-c)
 
 ## 📊 Estatísticas do GitHub
 
