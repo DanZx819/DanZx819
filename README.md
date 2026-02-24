@@ -1,8 +1,19 @@
 # 👋 Olá, meu nome é Daniel!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+algo+Novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Laravel+%2B+Vue.js;Especialista+em+APIs+REST;Sempre+Aprendendo+algo+Novo!" alt="Typing SVG" />
 </div>
+
+---
+
+## 🚀 Sobre Mim
+
+🎯 Desenvolvedor Full Stack com foco em **Laravel + Vue.js**  
+🔐 Experiência em autenticação, APIs RESTful e integrações  
+🗄️ Trabalho com MySQL e modelagem de banco de dados  
+📚 Sempre buscando evoluir como desenvolvedor  
+
+---
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -11,9 +22,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
-
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </div>
+
+---
 
 ### 🎨 Frontend
 <div align="center">
@@ -22,15 +34,23 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 </div>
 
+---
+
 ### 🔧 Backend & Frameworks
 <div align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/API_RESTful-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="API RESTful"/>
 </div>
+
+---
 
 ### 🗄️ Banco de Dados
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
+
+---
 
 ### 🛠️ Ferramentas & IDEs
 <div align="center">
@@ -42,7 +62,6 @@
 
 ---
 
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -52,11 +71,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanZx819&theme=tokyonight" alt="GitHub Streak"/>
 </div>
-
----
-
-
-
 
 ---
 
@@ -81,17 +95,14 @@
 
 ---
 
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DanZx819&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Profile Views"/>
   
   <h3>💖 Obrigado pela visita!</h3>
-  
+</div>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </div>
-
