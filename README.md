@@ -16,11 +16,11 @@ Sou desenvolvedor Full Stack com foco forte em **Backend com Laravel**, constru�
 
 Tenho experiência prática desenvolvendo sistemas completos com:
 
-- 🔐 Autenticação e controle de acesso
-- 📦 APIs REST estruturadas
-- 🗄️ Modelagem de banco de dados
-- ⚡ Integração Laravel + Vue.js
-- 📑 Sistemas administrativos e dashboards
+- 🔐 Autenticação e controle de acesso  
+- 📦 APIs REST estruturadas  
+- 🗄️ Modelagem de banco de dados  
+- ⚡ Integração Laravel + Vue.js  
+- 📑 Sistemas administrativos e dashboards  
 
 ---
 
@@ -30,36 +30,6 @@ Tenho experiência prática desenvolvendo sistemas completos com:
 
 <img src="https://skillicons.dev/icons?i=laravel,vue,js,php,mysql,postgres,git,vscode" />
 
-</div>
-
----
-
-## ⚙️ Backend & Arquitetura
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Laravel-Framework-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API-RESTful-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Authentication-JWT%20%7C%20Session-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVC-Architecture-0A0A0A?style=for-the-badge"/>
-</div>
-
----
-
-## 🎨 Frontend
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</div>
-
----
-
-## 🗄️ Banco de Dados
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
 ---
