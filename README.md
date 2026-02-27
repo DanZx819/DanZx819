@@ -36,9 +36,7 @@ Tenho experiência prática desenvolvendo sistemas completos com:
 
 # 📊 GitHub Analytics
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanZx819&layout=compact&theme=tokyonight"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanZx819&theme=tokyonight"/>
