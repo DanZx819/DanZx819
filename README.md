@@ -1,10 +1,9 @@
 # 🚀 Daniel Zanchetta
-
 <div align="center">
 
-### 💻 Full Stack Developer | Laravel • Vue.js • REST APIs
+### 💻 Full Stack Developer | Laravel • Next.js • REST APIs
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Especialista+em+Back-end+com+Laravel;Construindo+APIs+REST+Escaláveis;Integração+Laravel+%2B+Vue.js;Foco+em+Performance+e+Arquitetura" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Especialista+em+Back-end+com+Laravel;Construindo+APIs+REST+Escaláveis;Integração+Laravel+%2B+Next.js;Foco+em+Performance+e+Arquitetura" alt="Typing SVG" />
 
 </div>
 
@@ -19,7 +18,7 @@ Tenho experiência prática desenvolvendo sistemas completos com:
 - 🔐 Autenticação e controle de acesso  
 - 📦 APIs REST estruturadas  
 - 🗄️ Modelagem de banco de dados  
-- ⚡ Integração Laravel + Vue.js  
+- ⚡ Integração Laravel + Next.js  
 - 📑 Sistemas administrativos e dashboards  
 
 ---
@@ -28,15 +27,13 @@ Tenho experiência prática desenvolvendo sistemas completos com:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,vue,js,php,mysql,postgres,git,vscode" />
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,vue,js,php,mysql,postgres,git,vscode" />
 
 </div>
 
 ---
 
 # 📊 GitHub Analytics
-
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanZx819&theme=tokyonight"/>
